@@ -1,1 +1,1 @@
-# Assignment-1-OS-Class
+# Assignment 1 Operating System Class
