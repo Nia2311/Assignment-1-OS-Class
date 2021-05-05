@@ -4,10 +4,13 @@
 #### NIM   : 1313619008
 
 ## 1. Source Code
-[XV6-PDX]
+To see the source code, please click on the link below:
+[XV6-PDX](https://github.com/Nia2311/Assignment-1-OS-Class/tree/main/XV6-PDX)
 
 ## 2. Code Modification
-[diff_report]
+To see which code has been modified, please click on the link below:
+[diff_report](https://github.com/Nia2311/Assignment-1-OS-Class/blob/main/diff_report.pdf)
 
 ## 3. Running Screenshots
-[usertests]
+To see the screenshots of the code that has been run, please click the link below:
+[usertests](https://github.com/Nia2311/Assignment-1-OS-Class/tree/main/usertests)
