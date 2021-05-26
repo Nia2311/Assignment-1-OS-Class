@@ -13,4 +13,4 @@ To see which code has been modified, please click on the link below:
 
 ## 3. Running Screenshots
 To see the screenshots of the code that has been run, please click the link below:
-##### [usertests](https://github.com/Nia2311/Assignment-1-OS-Class/tree/branch/usertests)
+##### [usertests](https://github.com/Nia2311/Assignment-1-OS-Class/blob/branch/usertests/README.md)
