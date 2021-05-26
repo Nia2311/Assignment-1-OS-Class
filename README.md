@@ -1,4 +1,4 @@
-# Assignment 1 Operating System Class
+# Assignment 2 Operating System Class
 
 #### Name  : Siti Nuraisyarani Baashita
 #### NIM   : 1313619008
